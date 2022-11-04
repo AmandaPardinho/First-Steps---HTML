@@ -14,9 +14,13 @@
 ---
 
 ## Projects   
-
 > Projects in this repository will be done exclusively using HTML. I will not use other languages like CSS and Javascript here. This merging of languages will happen in another repository that will be created in the future.
 ---
+
+## STRUCTURE.HTML
+> Project to start the repository and not fall under the curse. 
+---
+
 ## TAG.HTML
 > I wasn't sure what to do in those first projects. The purpose of the classes I attended was to learn how HTML structure worked and, with that, to put together what would be equivalent to the structure of a website.
 > Since the creativity didn't come, I decided to detail what I saw in the class, like a site/summary explaining the function of each of the tags presented.

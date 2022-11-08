@@ -6,6 +6,7 @@
 
 ## Why did I start studying HTML?
 > Actually, I haven't just started studying HTML. I had already taken some courses before. However, I never developed any projects, so I had no practical experience with it.
+> 
 > Since I am in career transition, one of the jobs I applied for offered to teach programming languages a full stack developer would normally learn. So here I am learning front end related languages as well.
 ---
 
@@ -15,6 +16,8 @@
 
 ## Projects   
 > Projects in this repository will be done exclusively using HTML. I will not use other languages like CSS and Javascript here. This merging of languages will happen in another repository that will be created in the future.
+> 
+> Also, the files do not correlate, i.e. they are all independent projects. If I do a project where I need to link different files, I will put them in one folder.
 ---
 
 ## STRUCTURE.HTML
@@ -23,7 +26,9 @@
 
 ## TAG.HTML
 > I wasn't sure what to do in those first projects. The purpose of the classes I attended was to learn how HTML structure worked and, with that, to put together what would be equivalent to the structure of a website.
+> 
 > Since the creativity didn't come, I decided to detail what I saw in the class, like a site/summary explaining the function of each of the tags presented.
+> 
 > I intend to keep working on this file at least until the end of basic HTML (I don't know if it will end in this or the next module). In the future, when the CSS is presented, I may return to it (or clone it in another folder) to "beautify" it (or turn it into a class notebook anyway).
 ---
 
